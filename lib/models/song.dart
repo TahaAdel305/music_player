@@ -3,7 +3,7 @@ class Song {
   final String artist;//اسم الفنان.
   final String image;//صورة الأغنية.
   final String path;//مكان ملف الأغنية نفسه.
-  final String duration;//مدة الأغنية.
+   String duration ;//مدة الأغنية.
 
   Song({
     required this.title,

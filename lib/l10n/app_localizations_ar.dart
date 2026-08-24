@@ -37,4 +37,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get recommended => 'مُوصى به لك';
+
+  @override
+  String get likedsongs => 'الاغانى المفضله';
 }

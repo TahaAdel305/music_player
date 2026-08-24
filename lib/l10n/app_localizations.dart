@@ -157,6 +157,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Recommended for you'**
   String get recommended;
+
+  /// No description provided for @likedsongs.
+  ///
+  /// In en, this message translates to:
+  /// **'Liked Songs'**
+  String get likedsongs;
 }
 
 class _AppLocalizationsDelegate
